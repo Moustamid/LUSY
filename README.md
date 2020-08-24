@@ -1,7 +1,7 @@
 ## Lusy is an Ongoing Project , files and updates will be added on progress 
 
 
-![](lusy.PNG)
+![](Lusy.PNG)
 
 
 
