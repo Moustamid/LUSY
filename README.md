@@ -1,3 +1,10 @@
+## Lusy is an Ongoing Project , files and updates will be added on progress 
+
+
+![](lusy.PNG)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
