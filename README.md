@@ -1,3 +1,9 @@
+##  This is an ongoing project , Lusy still need a backend . updates will be added on progress.
+
+
+![](images/snapchat.PNG)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
